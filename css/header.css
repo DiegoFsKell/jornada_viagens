@@ -4,16 +4,18 @@ header {
   flex-direction: row;
   justify-content: space-between;
   align-items: flex-start;
-  padding: 38PX 48PX;
+  padding: 38px 48px;
 }
 .logo {
   display: inline-block;
   width: 68px;
   height: 64px;
-  
 }
-.navigation-menu{
+.navigation-menu {
   margin-top: 24px;
+}
+input[type="checkbox"]:checked ~ nav {
+  display: block;
 }
 nav {
   display: none;
