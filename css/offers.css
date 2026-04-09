@@ -3,7 +3,9 @@
   flex-direction: column;
   align-items: center;
   gap: 24px;
+  margin-bottom: 104px;
 }
+
 .offers-cards .card {
   color: var(--text-secondary-color);
   background-color: black;
