@@ -1,14 +1,15 @@
+.offers {
+  margin-bottom: 104px;
+}
 .offers-cards {
   display: flex;
   flex-direction: column;
   align-items: center;
   gap: 24px;
-  margin-bottom: 104px;
 }
 
 .offers-cards .card {
   color: var(--text-secondary-color);
-  background-color: black;
   width: 312px;
   height: 288px;
   box-sizing: border-box;
@@ -17,10 +18,6 @@
   text-align: center;
 }
 .offers-cards .card header {
-  display: block;
-  background-color: transparent;
-  position: static;
-  padding: 0;
   margin-bottom: 24px;
 }
 .offers-cards .card header p {
