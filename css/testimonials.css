@@ -21,7 +21,7 @@
 .testimonial-container footer .profile-content h4 {
   font-size: 20px;
   line-height: 32px;
-  font-weight: var(--title-weight);
+  font-weight: var(--titles-weight);
   margin: 0 0 8px;
 }
 .testimonial-container footer .profile-content .rating .star {
