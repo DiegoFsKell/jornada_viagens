@@ -12,6 +12,7 @@
 .bottom-hero .hero-img {
   background: url(../img/bottom-hero.png) no-repeat;
   background-size: cover;
+  margin-top: 16px;
 }
 .hero h2 {
   padding: 88px 24px;
